@@ -1,0 +1,1 @@
+start "c:\windows\system32" dist\py2Chi.exe

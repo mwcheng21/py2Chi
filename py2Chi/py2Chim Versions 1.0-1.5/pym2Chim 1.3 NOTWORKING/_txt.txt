@@ -1,0 +1,8 @@
+open #0 pdb:7api_d1.cryst
+color #191919 #0
+rainbow #0:.a:1-36+14-347
+rainbow #0:.b:1-36+14-347
+open #1 pdb:7api_d1.cryst
+color #191919 #1
+rainbow #1:.a:1-36+14-347
+rainbow #1:.b:1-36+14-347
